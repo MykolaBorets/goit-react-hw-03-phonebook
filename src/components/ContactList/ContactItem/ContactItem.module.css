@@ -1,0 +1,15 @@
+.item {
+	white-space: nowrap;
+}
+
+.btn {
+	border: 1px solid;
+	padding: 5px 10px;
+	border-radius: 5px;
+	cursor: pointer;
+	margin-left: 10px;
+}
+
+.btn:hover {
+	background: #277bee;
+}
